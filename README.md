@@ -1,1 +1,0 @@
-# Prediction-of-company-registration-trends-with-ROC
